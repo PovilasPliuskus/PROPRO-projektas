@@ -1,0 +1,73 @@
+Name: Elon
+Surname: Musk
+Job title: CEO of Twitter
+e: elon@musk.com
+w: www.elon_msuk.com
+m: +37065468799
+Personal profile: I am a highly competent IT professional with a proven track record in designing websites, networking and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.
+
+Work experience:
+1.
+Job title at a company: 
+Customer Service Representative at Computer Company
+
+2016–Present
+
+Supervised customer service training program that grew customer engagement by 35%
+Implemented new office layout that enhanced communication between staff
+Won Employee of the Year twice (2017 and 2019)
+Earned highest performance ratings across 7 consecutive months for resolving customer problems
+Developed more efficient filing system for customer records
+2.
+Job title at a company:
+Nurse at Wellness Hospital
+
+2001–2014
+
+Managed critically ill patients (20+ on my ward)
+Directed new nurses’ training program on practical ventilator function
+Cared for 1,000+ patients in ICU and provided pre-operative care
+Trained 15 team members to use Epic and Cerner patient management software systems
+3.
+Job title at a company:
+Teacher at Children’s Middle School, Billings, MT
+
+2011–2018
+
+Piloted reading initiative that expanded the average student’s vocabulary by 140 words
+Coordinated run–swim–bike events that raised $76,000 for local causes
+Established after-school gaming initiative that cut students’ screen time by 40%
+Introduced SMART boards as Chair of Technology Committee
+Led class to win Best Behaved awards 7% more often than colleagues
+
+Skills:
+Attention to detail
+Creativity
+Communication
+Time management
+Teamwork & cooperation
+Analysis
+Organization
+Training and teaching
+Technical writing
+
+Education:
+1.
+College/University: Hunter College
+Qualification: BS in Computer Science
+
+GPA: 3.8/4.0
+
+Relevant Coursework
+Programming: Java, Python, C
+Computer Science: databases, software engineering, data structures, data mining
+
+2.
+College/University: Vilnius University
+Qualification: Masters degree in Computer Science
+
+GPA: 3.7/4.0
+
+Relevant Coursework
+Programming: Assembly, C++
+Computer Science: artificial intelligence, cryptography, theory of probability in computer science
